@@ -38,19 +38,32 @@ The screenshot below shows the **OSRS Log Toggle** shortcut placed in Control Ce
 
 ## Shortcut previews
 
-Click a preview to open its iCloud installation page.
+Click the download links below to install each shortcut.
 
 ### OSRS Log Toggle
 
-<a href="https://www.icloud.com/shortcuts/3ca2d203c49c4db0a5aed3076bf4fb01"><img src="images/toggle-preview.png" width="650" alt="Toggle shortcut actions"></a>
+**[⬇️ Download OSRS Log Toggle](https://www.icloud.com/shortcuts/3ca2d203c49c4db0a5aed3076bf4fb01)**
+
+<img src="images/toggle-preview.png" width="650">
+
+---
 
 ### OSRS Log open
 
-<a href="https://www.icloud.com/shortcuts/26fcc0bd29b840ff823c749c6bcee55c"><img src="images/open-preview.png" width="320" alt="Open automation actions"></a>
+**[⬇️ Download OSRS Log open](https://www.icloud.com/shortcuts/26fcc0bd29b840ff823c749c6bcee55c)**
+
+<img src="images/open-preview.png" width="320">
+
+---
 
 ### OSRS Log close
 
-<a href="https://www.icloud.com/shortcuts/2c006c89b8b8479baa68026d6e6ecd5d"><img src="images/close-preview.png" width="500" alt="Close automation actions"></a>
+**[⬇️ Download OSRS Log close](https://www.icloud.com/shortcuts/2c006c89b8b8479baa68026d6e6ecd5d)**
+
+<img src="images/close-preview.png" width="500">
+
+---
+
 
 ## How it works
 
